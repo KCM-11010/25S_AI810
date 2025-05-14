@@ -1,1 +1,1 @@
-# kcm-11010.github.io
+AI810 project repo (2025 Spring, KAIST)
